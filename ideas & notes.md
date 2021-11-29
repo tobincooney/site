@@ -13,7 +13,7 @@
 	
 	
 - better music selection
-	- [ ] [[compile portfolio album]] 
+	- [ ] [[portfolio album]] 
 		- embed:: private bandcamp album?
 		<iframe src="https://tobincooney.bandcamp.com/album/the-good-things-comp-draft"></iframe><br />
 		- https://tobincooney.bandcamp.com/album/the-good-things-comp-draft
@@ -26,7 +26,7 @@
 - [ ] take better photo of painting
 - [ ] some photos of physical actual sketches? That would be fun
 - __*__ notes about what I'm actually working on!
-	- [[gourdboat]]?
+	- [gourdboat](obsidian://open?vault=gourdboat&file=README)?
 - [ ] good still life photo
 
 
