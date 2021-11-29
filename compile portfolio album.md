@@ -7,6 +7,7 @@
 - seedcake rebellion: bake off for the fate of all toadkind
 - UNLATCH
 - cloud cover?
+	- original 2 versions from 2016-19?
 - story from the clouds
 	- violin pizz intro
 	- original 13min piano
@@ -73,4 +74,25 @@
 - Goblin Teeth
 - Cyber Beetles
 - Timpani sympathy symphony?
-- 
+- Screen Door of the Potential Apocalypse
+- original Purple Theme
+- Submerge???
+- betelgeuse
+- The Abacus? meh?
+- it was going to pine trees (hehehehe yes good)
+- maybe also Steel Blue?
+- please make a new version of 'back to the waves'
+- beyond the walls and below the waves??
+- Morning Turns to Slightly Later Morning
+- A Library in the Cogs!
+- Parapet
+- PROJECT RADISH MITTENS
+	- [ ] do it again.
+- how does raisin walnut bread go again?
+- [ ] redo 'revel at the hall of the pumpkin gods'
+- one of the Ruby Honeycomb's
+- Warmpth (with a p)
+- When There Were Rivers
+- winter
+- yeetelgeuse
+- Under the City
