@@ -1,0 +1,76 @@
+# portfolio album
+
+- petals
+- gourdboat main theme
+	- reprise
+	- piano from kaes' house
+- seedcake rebellion: bake off for the fate of all toadkind
+- UNLATCH
+- cloud cover?
+- story from the clouds
+	- violin pizz intro
+	- original 13min piano
+- [ t o a d ]
+- S&K?
+- bagel money?
+- a questionable attempt at writing music on paper without an instrument
+- string thing from sketchbook?
+- sea sketches?
+- In the Wind
+- saxophone section
+- The Cat Under The Lamppost
+- screen door of the potential apocalypse
+- the end of winter?
+- maybe #3?
+- bluebells?
+- antlers? (trim)
+	- was going to transition into this from the "overture" garageband doc, which was a part of gourdboat theme
+- Willow flute bridge!
+- will-o'-the-wisp?
+- "dark water" but maybe different name
+- Arrival at Toad Hill? (not great)
+- the door
+- Feb. A Phrygian
+- planet thing
+- "if moths had eyes"
+- sinfonietta (doesn't really exist yet?)
+- "?" (11 happy thing)
+- old ending thing note
+- 'a new city'? it's really bad toward the end though
+- different versions of rain?
+- asterisk?
+- 'fifths'?
+- chaotic little waltz for string orch.?
+- one of the versions of 'the lake' (feb.)?
+- keys 1?
+- 'robin's egg'?
+	- the midi sketch from january 2021
+- dooo (clouds receding)
+- maybe the 40 minute recording no 400 something .m4a?
+- december prelude?
+- crows & raindrops! original one?
+- snowfall
+	- november
+	- string sketch (december)
+	- original tune (2016-19)
+- learning to run in 7/8?
+- from spring?
+	- i feel like no for some reason.
+- not really a fanfare
+- detritivores (waltz of decay)
+- what is 'a nocturne' again?
+- 'neap tide'?
+- back in time for supper
+- moat? what is this one?
+- sawdust & roses & beetles?
+- hyacinth?
+- apple seed: a river (i just want to hear what this one is again.)
+- "Okay" - a remix of a thing
+- In the Lamplight
+- sunlight (all of april 2020 is just such a vibe)
+- unstable ground?
+- brighter colors
+- Goblin Teeth
+- Cyber Beetles
+- Timpani sympathy symphony?
+- 
