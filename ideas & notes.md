@@ -1,6 +1,11 @@
 # website
 ### initial brainstorm
 
+- hosting
+	- https://fredcashoon.github.io/
+	- https://heartwoodcollective.com/TobinCooney
+	- https://tobincooney.com/ ?
+
 
 - easy way to navigate portfolio
 	- [ ] make thumbnail images for photography
@@ -14,10 +19,8 @@
 	
 - better music selection
 	- [ ] [[portfolio album]] 
-		- embed:: private bandcamp album?
-		<iframe src="https://tobincooney.bandcamp.com/album/the-good-things-comp-draft"></iframe><br />
-		- https://tobincooney.bandcamp.com/album/the-good-things-comp-draft
-		-  Don't know how to share this though.
+		- embed bandcamp stuff
+		- https://tobincooney.bandcamp.com/album/the-good-things-comp-draft (will make it public when it's good)
 	- explain notebook albums ('sketchbooks') & link to full database
 	- also include good bits from sketchbook that aren't polished
 
@@ -25,7 +28,7 @@
 	
 - [ ] take better photo of painting
 - [ ] some photos of physical actual sketches? That would be fun
-- __*__ notes about what I'm actually working on!
+-  notes about what I'm actually working on! *
 	- [gourdboat](obsidian://open?vault=gourdboat&file=README)?
 - [ ] good still life photo
 
