@@ -1,0 +1,2 @@
+- by year
+- explain notebook albums ('sketchbooks') & link to full database
