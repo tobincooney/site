@@ -2,29 +2,45 @@
 <html>
   <head>
     <title>Tobin Cooney</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap" rel="stylesheet">
     <style type="text/css" >
-      li.nav {
-	  display: inline-block;
-      }
       body {
-	  background-color: white;
-	  color: black;
-	  transition: background-color .5s, color .5s;
+        background-color: white;
+        font-family: "Open Sans", sans-serif;
+        font-size: 13pt;
+        color: black;
+        transition: background-color .5s, color .5s;
       }
+      h1 {
+        font-weight: bold;
+        font-size: 30pt;
+      }
+      a {
+        font-weight: bold;
+        text-decoration: none;
+      }
+      li.nav {
+        display: inline-block;
+      }
+
+      /* dark mode adaptive stuff */
       @media (prefers-color-scheme: dark) {
-	  body{ background-color: #1c1c1c;
-		color: #e3e3e3; }
-	  a { color: #61b8ff; }
-	  a:visited { color: #e3ae44 }
+        body{ background-color: #1c1c1c;
+          color: #e3e3e3; }
+        a { color: #61b8ff; }
+        a:visited { color: #e3ae44 }
       }
+
     </style>
   </head>
   <body>
     <center>
       <h1>Tobin Cooney</h1>
       <ul>
-	<li class="nav" ><a href="html/photography.html" >photography</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
-	<li class="nav" ><a href="html/music.html" >music</a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <li class="nav" ><a href="html/photography.html" >photography</a></li>&nbsp;&nbsp;&nbsp;&nbsp;
+        <li class="nav" ><a href="html/music.html" >music</a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </ul>
       <br />
       <div style="text-align: left; width: 900px;" >
