@@ -1,2 +1,3 @@
-- by year
-- explain notebook albums ('sketchbooks') & link to full database
+* __by year__
+- table of contents
+- 
