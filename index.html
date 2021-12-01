@@ -5,17 +5,17 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400&display=swap" rel="stylesheet">
     <style type="text/css" >
       body {
         background-color: white;
-        font-family: "Open Sans", sans-serif;
+        font-family: "Roboto Slab", serif;
         font-size: 13pt;
-        color: black;
+        color: red;
         transition: background-color .5s, color .5s;
       }
       h1 {
         font-weight: bold;
-        font-size: 30pt;
       }
       a {
         font-weight: bold;
@@ -33,6 +33,11 @@
         a:visited { color: #e3ae44 }
       }
 
+      /* mobile */
+      @media only screen and (max-width: 768px) {
+        div#main { background-color: blue; }
+      }
+
     </style>
   </head>
   <body>
@@ -43,8 +48,8 @@
         <li class="nav" ><a href="html/music.html" >music</a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </ul>
       <br />
-      <div style="text-align: left; width: 900px;" >
-	<p>hello</p>
+      <div style="text-align: left; width: 900px;" id="main" >
+        <p>hello</p>
       </div>
     </center>
   </body>
