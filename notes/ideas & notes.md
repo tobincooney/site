@@ -1,6 +1,8 @@
 # website
 ### initial brainstorm
 
+[[archive]] and [[pinned]]
+
 >__hosting__
 >	- https://tobincooney.github.io/
 >	- https://heartwoodcollective.com/tobincooney
