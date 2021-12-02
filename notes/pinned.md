@@ -9,4 +9,5 @@ notes about what i'm actually working on: ongoing projects & things
 - music selection
 - photography selection
 - any other fun pieces i want to highlight (don't worry too much about catagories. The selections are just to make it less overwhelming. This is just stuff you don't want people to miss.)
+	- toad!
 - then link : view full [[archive]]
