@@ -30,6 +30,9 @@ h1.title {
 	font-weight: normal;
 	margin-bottom: 0%;
 }
+li.toc {
+	padding-left: 1%;
+}
 p.date {
 	font-style: italic;
 	color: #AFAFAF;
