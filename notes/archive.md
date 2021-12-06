@@ -15,11 +15,12 @@
 # 2020
 ## 'unlatch'
 ## walls/waves painting
-## adv. art stuff
+## adv. art stuff 10th grade
 
 # 2019
 ## 2020 calendar? just for fun
 
 # 2018
+## do i have any of my old sketches?
 
 # earlier
