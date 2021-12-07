@@ -55,6 +55,9 @@ h3 {
 div.project {
 	margin-left: 2%;
 }
+div.post-content {
+	padding-left: 2%;
+}
 h4 {
 	font-weight: bold;
 	font-size: 110%;
@@ -74,16 +77,22 @@ p.date {
 	font-size: 90%;
 	font-family: "Courier New", monospace, serif;
 }
-hr {
+hr.start {
+	border: none;
+	height: 1px;
+	width: 100%;
+	background-color: #5C5C5C;
+	margin-left: 0%;
+}
+hr.end {
 	border: none;
 	height: 1px;
 	width: 25%;
 	background-color: #5C5C5C;
 	margin-left: 0%;
+	padding-top: 8px;
+	margin-top: 15px;
 }
-/*p.post-content {
-	padding-left: 2%;
-}*/
 
 /* dark mode adaptive stuff */
 @media (prefers-color-scheme: dark) {
