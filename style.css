@@ -36,7 +36,7 @@ div#toc {
 	border-radius: 4px;
 	padding: 2%;
 	padding-bottom: 0px;
-	width: 200px;
+	width: 300px;
 	margin-top: 25px;
 }
 p#toc-title {
@@ -47,12 +47,32 @@ li.toc {
 	padding-left: 10px;
 	margin-left: 15px;
 }
+h3 {
+	font-size: 200%;
+	font-family: "Roboto Slab", serif;
+	font-weight: normal;
+}
+div.project {
+	margin-left: 2%;
+}
+h4 {
+	font-weight: bold;
+	font-size: 110%;
+	left:-5px;
+	margin-bottom: 0px;
+}
+h5 {
+	font-weight: bold;
+	font-size: 100%;
+}
+li.list {
+	padding-left: 10px;
+}
 p.date {
 	font-style: italic;
 	color: #AFAFAF;
 	font-size: 90%;
 	font-family: "Courier New", monospace, serif;
-	margin-left: 2%;
 }
 hr {
 	border: none;
@@ -61,18 +81,13 @@ hr {
 	background-color: #5C5C5C;
 	margin-left: 0%;
 }
-h3 {
-	font-size: 200%;
-	font-family: "Roboto Slab", serif;
-	font-weight: normal;
-}
-p.post-content {
+/*p.post-content {
 	padding-left: 2%;
-}
+}*/
 
 /* dark mode adaptive stuff */
 @media (prefers-color-scheme: dark) {
-  body{ background-color: #1c1c1c;
+  body { background-color: #1c1c1c;
     color: #e3e3e3; }
   a:visited { color: #e3ae44; }
 	a:visited:hover { color: #b08735; }

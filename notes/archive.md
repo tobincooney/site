@@ -10,12 +10,16 @@
 
 # 2021
 ## October music project
-## 
+## may: petals
 
 # 2020
-## 'unlatch'
+## november: snowfall piano
+## oct: 'unlatch'
+## sept: 'summer evening' piano pieces
 ## walls/waves painting
 ## adv. art stuff 10th grade
+- [ ] take a look @ that final portfolio slideshow & stuff
+## april: Starling & Kingfisher
 
 # 2019
 ## 2020 calendar? just for fun
