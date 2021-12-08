@@ -105,6 +105,10 @@ img.artwork {
 	border: 1px solid grey;
 	border-radius: 2px;
 }
+hr#endline {
+	padding-top: 0px;
+	width: 50%;
+}
 
 
 
