@@ -1,0 +1,837 @@
+media
+├── 2018
+├── 2019
+│   └── ceram-sculp
+├── 2020
+│   ├── adv-port-1
+│   │   ├── 0.jpg
+│   │   ├── 1.jpg
+│   │   ├── 2.png
+│   │   ├── 3.png
+│   │   ├── 4.png
+│   │   ├── 5.png
+│   │   ├── concentric.png
+│   │   ├── img20200413_20240980.png
+│   │   ├── img20200509_20045630.png
+│   │   ├── IMG-5467.JPG
+│   │   ├── img.png
+│   │   ├── improbable riverbank.png
+│   │   ├── i will title this something about thunder probably.mp3
+│   │   ├── kitchen watercolor sketch a.JPG
+│   │   ├── not sure what i'm doing — harpsichord.png
+│   │   ├── scale.png
+│   │   ├── sensitive to metal 1.png
+│   │   ├── Tobin Cooney - We are back!.pdf
+│   │   └── Tobin Cooney - Week # 9 - Assignment #1- Final Portfolio.pdf
+│   ├── dig-pho
+│   │   ├── 10color.png
+│   │   ├── 10.png
+│   │   ├── 10u.png
+│   │   ├── 11.png
+│   │   ├── 11u.png
+│   │   ├── 12.png
+│   │   ├── 13.png
+│   │   ├── 14a.png
+│   │   ├── 14b.png
+│   │   ├── 14c.png
+│   │   ├── 14d.png
+│   │   ├── 14.png
+│   │   ├── 15.png
+│   │   ├── 16b-thin-border.png
+│   │   ├── 16.png
+│   │   ├── 17.png
+│   │   ├── 18.png
+│   │   ├── 19.png
+│   │   ├── 1color.png
+│   │   ├── -1.png
+│   │   ├── 1.png
+│   │   ├── 1-.png
+│   │   ├── 1w.png
+│   │   ├── 20.png
+│   │   ├── 21.png
+│   │   ├── 22b.png
+│   │   ├── 2b-borderless.png
+│   │   ├── 2color.png
+│   │   ├── --2.png
+│   │   ├── 2.png
+│   │   ├── 2-.png
+│   │   ├── 2u.png
+│   │   ├── 2w.png
+│   │   ├── 3mono.png
+│   │   ├── --3.png
+│   │   ├── 3.png
+│   │   ├── 3u.png
+│   │   ├── 3w.png
+│   │   ├── 4color.png
+│   │   ├── --4.png
+│   │   ├── 4.png
+│   │   ├── 4u.png
+│   │   ├── 4w.png
+│   │   ├── 5color.png
+│   │   ├── 5.png
+│   │   ├── 5u.png
+│   │   ├── 5w.png
+│   │   ├── 6mono2.png
+│   │   ├── 6.png
+│   │   ├── 6u.png
+│   │   ├── 7mono.png
+│   │   ├── 7.png
+│   │   ├── 7u.png
+│   │   ├── 8b.png
+│   │   ├── 8color.png
+│   │   ├── 8.png
+│   │   ├── 8u.png
+│   │   ├── 9color.png
+│   │   ├── 9.png
+│   │   ├── 9u.png
+│   │   ├── a0997578253_10.jpg
+│   │   ├── after.png
+│   │   ├── balance 2.png
+│   │   ├── before.JPG
+│   │   ├── bubble.png
+│   │   ├── candle.png
+│   │   ├── cat6.png
+│   │   ├── cat blue.png
+│   │   ├── catu.png
+│   │   ├── cool.png
+│   │   ├── dark.png
+│   │   ├── dark sunrise.png
+│   │   ├── dust.png
+│   │   ├── elements 1.jpg
+│   │   ├── elements 2((potato)).png
+│   │   ├── emphasis+1.png
+│   │   ├── emphasis+3 monochrome.png
+│   │   ├── emphasis+4 good c.png
+│   │   ├── emphasis+4 good.png
+│   │   ├── frost 10.png
+│   │   ├── go.png
+│   │   ├── hmm2.png
+│   │   ├── IMG-0220b.JPG
+│   │   ├── IMG-0220.JPG
+│   │   ├── IMG-0749.JPG
+│   │   ├── IMG-0803.JPG
+│   │   ├── IMG-3746.JPG
+│   │   ├── IMG-3747.JPG
+│   │   ├── IMG-3756.JPG
+│   │   ├── IMG-3757.JPG
+│   │   ├── IMG-3760.JPG
+│   │   ├── IMG-3761.JPG
+│   │   ├── IMG-3762.JPG
+│   │   ├── IMG-3764.JPG
+│   │   ├── IMG-3765.JPG
+│   │   ├── IMG-3766.JPG
+│   │   ├── IMG-3784.JPG
+│   │   ├── IMG-3786.JPG
+│   │   ├── IMG-3787.JPG
+│   │   ├── IMG-3820.JPG
+│   │   ├── IMG-3828.JPG
+│   │   ├── IMG-3926.JPG
+│   │   ├── IMG-3930.JPG
+│   │   ├── IMG-3937.JPG
+│   │   ├── IMG-3940.JPG
+│   │   ├── IMG-3941.JPG
+│   │   ├── IMG_4431(1).JPG
+│   │   ├── IMG-4603.JPG
+│   │   ├── IMG-4605.JPG
+│   │   ├── IMG-4625.JPG
+│   │   ├── IMG-4626.JPG
+│   │   ├── IMG-4631.JPG
+│   │   ├── IMG-7468.JPG
+│   │   ├── IMG-7468.png
+│   │   ├── IMG-7468-small.png
+│   │   ├── IMG-7477.JPG
+│   │   ├── IMG-7477.png
+│   │   ├── IMG-7486.JPG
+│   │   ├── IMG-7534.JPG
+│   │   ├── IMG-7534.png
+│   │   ├── little lichen planet.png
+│   │   ├── monolith.png
+│   │   ├── monolith square.png
+│   │   ├── months.png
+│   │   ├── morning glory seed.png
+│   │   ├── morning glory seeds 2.png
+│   │   ├── movement 1.png
+│   │   ├── newest scans - Copy.png
+│   │   ├── ok.png
+│   │   ├── photo paintings 1.png
+│   │   ├── pond.png
+│   │   ├── portrait 1.png
+│   │   ├── portrait 5.png
+│   │   ├── portrait 6.png
+│   │   ├── portrait.png
+│   │   ├── printer color 6 square.png
+│   │   ├── queen anne's lace.png
+│   │   ├── rainboots monochrome.png
+│   │   ├── repetition 1 monochrome.png
+│   │   ├── repetition 3 monochrome.png
+│   │   ├── rewind 3 monochrome.png
+│   │   ├── rewind 4 monochrome.png
+│   │   ├── rewind 5.JPG
+│   │   ├── rooftop.png
+│   │   ├── rosemary.png
+│   │   ├── salt dust b.png
+│   │   ├── snow cactus.png
+│   │   ├── snow shadow.png
+│   │   ├── sticks.png
+│   │   ├── streetlight.png
+│   │   ├── sun3.png
+│   │   ├── sun A3.png
+│   │   ├── SUN C 2.png
+│   │   ├── SUN C.png
+│   │   ├── SUN new.png
+│   │   ├── sunrise 4.png
+│   │   ├── sun tree.png
+│   │   ├── telephonepole monochrome.png
+│   │   ├── telephonepole.png
+│   │   ├── thing 2.png
+│   │   ├── u1.png
+│   │   ├── unity 1 monochrome.png
+│   │   ├── watercolor effect.png
+│   │   ├── windchimes monochrome.png
+│   │   └── winter sunexplanation.txt
+│   ├── disposable-camera
+│   │   ├── blurry snow.png
+│   │   ├── humans.png
+│   │   ├── img20200911_13313923.png
+│   │   ├── img20200911_13490661.png
+│   │   ├── img20200911_13582641.png
+│   │   ├── img20200911_14183513.png
+│   │   ├── img20200911_14254716.png
+│   │   ├── notebooks one thru 16.png
+│   │   ├── people cropped.png
+│   │   ├── snowtree.PNG
+│   │   ├── sunrise.PNG
+│   │   ├── tree.PNG
+│   │   └── winter.png
+│   └── open-studio
+│       ├── 10 light 2.png
+│       ├── 1 tape1.png
+│       ├── 2 leaf1.png
+│       ├── 3 tape2.png
+│       ├── 4 planet.png
+│       ├── 5 leaf2.png
+│       ├── 6 hue 2.png
+│       ├── 7 tape3.png
+│       ├── 8 hue 1.png
+│       ├── 9 writing.png
+│       ├── DustStatic.mp4
+│       ├── DustStatic-statement.md
+│       ├── IDENTITY- the book thing
+│       │   ├── book1.JPG
+│       │   ├── book2.jpg
+│       │   ├── book3.jpg
+│       │   └── book4.jpg
+│       ├── SnowfallPiano-statement.md
+│       ├── Unlatch-statement.md
+│       ├── WallsWaves.png
+│       └── WallsWaves-statement.md
+├── 2021
+│   ├── adv-pho
+│   │   ├── 01 januaryb.png
+│   │   ├── 01 january.png
+│   │   ├── 02 workbenchb.png
+│   │   ├── 02 workbench.png
+│   │   ├── 03b.png
+│   │   ├── 03.png
+│   │   ├── 04 there appear to be plants in the bathtub.png
+│   │   ├── 04 there are plants in the bathtub.png
+│   │   ├── 05 shadow cityscapeb.png
+│   │   ├── 05 shadow cityscape.png
+│   │   ├── 06 shadow paintingb.png
+│   │   ├── 06 shadow painting.png
+│   │   ├── 07b.png
+│   │   ├── 07.png
+│   │   ├── 08 her majestyb.png
+│   │   ├── 08 her majesty.png
+│   │   ├── 08 her majestyx.png
+│   │   ├── 09b.png
+│   │   ├── 09.png
+│   │   ├── 10 ginny, the great outdoors Ab.png
+│   │   ├── 10 ginny, the great outdoors A.png
+│   │   ├── 10 holy beingb.png
+│   │   ├── 10 holy being.png
+│   │   ├── 10 holy beingx.png
+│   │   ├── 11 ginny, the great outdoors Bb.png
+│   │   ├── 11 ginny, the great outdoors B.png
+│   │   ├── 1b.png
+│   │   ├── 1 COMPOSITION.png
+│   │   ├── 1+COMPOSITION.png
+│   │   ├── 1 julianne, county farm park A.png
+│   │   ├── 1 red.png
+│   │   ├── 1 tea and coffee stainsb.png
+│   │   ├── 1 tea and coffee stains.png
+│   │   ├── 1t.png
+│   │   ├── 1z.png
+│   │   ├── 2b.png
+│   │   ├── 2 CONTENT.png
+│   │   ├── 2+CONTENT.png
+│   │   ├── 2 drivingb.png
+│   │   ├── 2 driving.png
+│   │   ├── 2 julianne, county farm park B.png
+│   │   ├── 2MNEW.png
+│   │   ├── 2 orange.png
+│   │   ├── 3bb.png
+│   │   ├── 3b.png
+│   │   ├── 3 frost.png
+│   │   ├── 3 (goblin) TECHNIQUE.png
+│   │   ├── 3+(goblin)+TECHNIQUE.png
+│   │   ├── 3 mom, kitchen table, calculating bread recipeb.png
+│   │   ├── 3 mom, kitchen table, calculating bread recipe.png
+│   │   ├── 3 mom, kitchen table, calculating bread recipez.png
+│   │   ├── 3 yellow.png
+│   │   ├── 3z.png
+│   │   ├── 4b.png
+│   │   ├── 4 dad, living room table workspaceb.png
+│   │   ├── 4 dad, living room table workspace.png
+│   │   ├── 4 dad, living room table workspaceq.png
+│   │   ├── 4 dew.png
+│   │   ├── 4 green 1.png
+│   │   ├── 4 green 2.png
+│   │   ├── 4 green 3.png
+│   │   ├── 4t.png
+│   │   ├── 4x.png
+│   │   ├── 5 blue.png
+│   │   ├── 5 city.png
+│   │   ├── 5 julianne, backyard table Ab.png
+│   │   ├── 5 julianne, backyard table A.png
+│   │   ├── 5NEW.png
+│   │   ├── 6 julianne and ginny, the couch.png
+│   │   ├── 6NEW.png
+│   │   ├── 6 purple 1.png
+│   │   ├── 6 purple 2.png
+│   │   ├── 7 julianne, backyard table Bb.png
+│   │   ├── 7 julianne, backyard table B.png
+│   │   ├── 7NEW.png
+│   │   ├── 8NEW.png
+│   │   ├── 9 julianne, windowside homework times.png
+│   │   ├── borb.png
+│   │   ├── bort22.png
+│   │   ├── bort23.png
+│   │   ├── b.png
+│   │   ├── brick 1.png
+│   │   ├── brick 2.png
+│   │   ├── brick 4.png
+│   │   ├── cat11.png
+│   │   ├── cat1.png
+│   │   ├── cat2.png
+│   │   ├── cat33.png
+│   │   ├── catb2.png
+│   │   ├── catb3.png
+│   │   ├── catNEW.png
+│   │   ├── cat.png
+│   │   ├── composition.png
+│   │   ├── content.png
+│   │   ├── descriptiont.txt
+│   │   ├── description.txt
+│   │   ├── dot2.JPG
+│   │   ├── dot.JPG
+│   │   ├── flat cloud spring 2.png
+│   │   ├── frost.png
+│   │   ├── geo1a.png
+│   │   ├── geo1.png
+│   │   ├── geo2a.png
+│   │   ├── geo2.png
+│   │   ├── geo3a.png
+│   │   ├── geo3.png
+│   │   ├── geo4.png
+│   │   ├── geo5.png
+│   │   ├── hee.JPG
+│   │   ├── hoo.JPG
+│   │   ├── IMG-0460.JPG
+│   │   ├── IMG-0482.JPG
+│   │   ├── IMG-0482.png
+│   │   ├── IMG-0777.JPG
+│   │   ├── IMG-0778.JPG
+│   │   ├── IMG-0780b.png
+│   │   ├── IMG-0780.JPG
+│   │   ├── IMG-0780.png
+│   │   ├── IMG-0781.JPG
+│   │   ├── IMG-0809.JPG
+│   │   ├── IMG-0813.JPG
+│   │   ├── IMG-0897f.png
+│   │   ├── IMG-0897g.png
+│   │   ├── IMG-0897.JPG
+│   │   ├── IMG-0897.png
+│   │   ├── IMG-0897r.png
+│   │   ├── IMG-0901a.png
+│   │   ├── IMG-0901bf.png
+│   │   ├── IMG-0901bg.png
+│   │   ├── IMG-0901b.png
+│   │   ├── IMG-0901.JPG
+│   │   ├── IMG-0901.png
+│   │   ├── IMG-0902g.png
+│   │   ├── IMG-0902.JPG
+│   │   ├── IMG-0902.png
+│   │   ├── IMG-0907e.png
+│   │   ├── IMG-0907g.png
+│   │   ├── IMG-0907.JPG
+│   │   ├── IMG-0907.png
+│   │   ├── IMG-0907r.png
+│   │   ├── IMG-0918.JPG
+│   │   ├── IMG-0918.png
+│   │   ├── IMG-1049.JPG
+│   │   ├── IMG-1050.JPG
+│   │   ├── IMG-1051.JPG
+│   │   ├── IMG-1052.JPG
+│   │   ├── IMG-1053.JPG
+│   │   ├── IMG-1054.JPG
+│   │   ├── IMG-1055.JPG
+│   │   ├── IMG-1055.png
+│   │   ├── IMG-1056.JPG
+│   │   ├── IMG-1057.JPG
+│   │   ├── IMG-1058.JPG
+│   │   ├── IMG-1059.JPG
+│   │   ├── IMG-1060.JPG
+│   │   ├── IMG-1060.png
+│   │   ├── IMG-1061.JPG
+│   │   ├── IMG-1062.JPG
+│   │   ├── IMG-1062.png
+│   │   ├── IMG-1063.JPG
+│   │   ├── IMG-1064.JPG
+│   │   ├── IMG-1065.JPG
+│   │   ├── IMG-1066.JPG
+│   │   ├── IMG-1066.png
+│   │   ├── IMG-1067.JPG
+│   │   ├── IMG-1127.JPG
+│   │   ├── IMG-1128 b.png
+│   │   ├── IMG-1128.JPG
+│   │   ├── IMG-1128.png
+│   │   ├── IMG-1129.JPG
+│   │   ├── IMG-1131.JPG
+│   │   ├── IMG-1165.JPG
+│   │   ├── IMG-1167.jpg
+│   │   ├── IMG-1282.JPG
+│   │   ├── IMG-1282.png
+│   │   ├── IMG-1285.JPG
+│   │   ├── IMG-1285.png
+│   │   ├── IMG-1620.JPG
+│   │   ├── IMG-1625.JPG
+│   │   ├── IMG-1626.JPG
+│   │   ├── IMG-1626.png
+│   │   ├── IMG-1627.JPG
+│   │   ├── IMG-1627.png
+│   │   ├── IMG-1629.JPG
+│   │   ├── IMG-1630.JPG
+│   │   ├── IMG-1646.JPG
+│   │   ├── IMG-2204.JPG
+│   │   ├── IMG-2667.JPG
+│   │   ├── IMG-2809.JPG
+│   │   ├── IMG-2892.JPG
+│   │   ├── IMG-2896.JPG
+│   │   ├── IMG-2898b.png
+│   │   ├── IMG-2898e.png
+│   │   ├── IMG-2898g.png
+│   │   ├── IMG-2898.JPG
+│   │   ├── IMG-2898.png
+│   │   ├── IMG-2898r.png
+│   │   ├── IMG-3325.JPG
+│   │   ├── IMG-3389e.png
+│   │   ├── IMG-3389g.png
+│   │   ├── IMG-3389.JPG
+│   │   ├── IMG-3389.png
+│   │   ├── IMG-3389r.png
+│   │   ├── IMG-3510.JPG
+│   │   ├── IMG-3728.JPG
+│   │   ├── IMG-3729.JPG
+│   │   ├── IMG-3731.JPG
+│   │   ├── IMG-3732.JPG
+│   │   ├── IMG-3785.JPG
+│   │   ├── IMG-3944g.png
+│   │   ├── IMG-3944.JPG
+│   │   ├── IMG-3944.png
+│   │   ├── IMG-4201.mp4
+│   │   ├── IMG-4202.JPG
+│   │   ├── IMG-4636f.png
+│   │   ├── IMG-4636g.png
+│   │   ├── IMG-4636.JPG
+│   │   ├── IMG-4636.png
+│   │   ├── IMG-4636r.png
+│   │   ├── IMG-4757.JPG
+│   │   ├── IMG-4758g.png
+│   │   ├── IMG-4758.JPG
+│   │   ├── IMG-4758.png
+│   │   ├── IMG-4759.JPG
+│   │   ├── IMG-5147.JPG
+│   │   ├── IMG-5148.JPG
+│   │   ├── IMG-5179.JPG
+│   │   ├── IMG-5180.JPG
+│   │   ├── IMG-5186.JPG
+│   │   ├── IMG-5187.JPG
+│   │   ├── IMG-5188.JPG
+│   │   ├── IMG-5191.JPG
+│   │   ├── IMG-5193.JPG
+│   │   ├── IMG-5195.JPG
+│   │   ├── IMG-5197a.png
+│   │   ├── IMG-5197b.png
+│   │   ├── IMG-5197.JPG
+│   │   ├── IMG-5197.png
+│   │   ├── IMG-5199a.png
+│   │   ├── IMG-5199b.png
+│   │   ├── IMG-5199.JPG
+│   │   ├── IMG-5199.png
+│   │   ├── IMG-5202a.png
+│   │   ├── IMG-5202b.png
+│   │   ├── IMG-5202.JPG
+│   │   ├── IMG-5202.png
+│   │   ├── IMG-5702.JPG
+│   │   ├── IMG-5703g.png
+│   │   ├── IMG-5703.JPG
+│   │   ├── IMG-5703.png
+│   │   ├── IMG-5703t.JPG
+│   │   ├── IMG-5712.JPG
+│   │   ├── IMG-5727 holy beingb.png
+│   │   ├── IMG-5727 holy being.png
+│   │   ├── IMG-5727.JPG
+│   │   ├── IMG-5731.JPG
+│   │   ├── IMG-5733.JPG
+│   │   ├── IMG-5734.JPG
+│   │   ├── IMG-5735.JPG
+│   │   ├── IMG-5736b.png
+│   │   ├── IMG-5736.jpg
+│   │   ├── IMG-5736.png
+│   │   ├── IMG-5737.jpg
+│   │   ├── IMG-5738b.png
+│   │   ├── IMG-5738.jpg
+│   │   ├── IMG-5738.png
+│   │   ├── IMG-5768.JPG
+│   │   ├── IMG-6035.JPG
+│   │   ├── IMG-6036.JPG
+│   │   ├── IMG-6037e.png
+│   │   ├── IMG-6037g.png
+│   │   ├── IMG-6037.JPG
+│   │   ├── IMG-6037.png
+│   │   ├── IMG-6037r.png
+│   │   ├── IMG-6038.JPG
+│   │   ├── IMG-6039.JPG
+│   │   ├── IMG-6040.JPG
+│   │   ├── IMG-6041.JPG
+│   │   ├── IMG-6459.JPG
+│   │   ├── IMG-6459.png
+│   │   ├── IMG-6543.JPG
+│   │   ├── IMG-6549f.png
+│   │   ├── IMG-6549g.png
+│   │   ├── IMG-6549.JPG
+│   │   ├── IMG-6549.png
+│   │   ├── IMG-6549r.png
+│   │   ├── IMG-6559.JPG
+│   │   ├── IMG-6563.JPG
+│   │   ├── IMG-6575.JPG
+│   │   ├── IMG-6577.JPG
+│   │   ├── IMG-6578.JPG
+│   │   ├── IMG-6580.JPG
+│   │   ├── IMG-6915b.png
+│   │   ├── IMG-6915.JPG
+│   │   ├── IMG-6915.png
+│   │   ├── IMG-6922.PNG
+│   │   ├── IMG-7200e.png
+│   │   ├── IMG-7200g.png
+│   │   ├── IMG-7200.JPG
+│   │   ├── IMG-7200.png
+│   │   ├── IMG-7200r.png
+│   │   ├── IMG-7215.JPG
+│   │   ├── IMG-7216f.png
+│   │   ├── IMG-7216.JPG
+│   │   ├── IMG-7216.png
+│   │   ├── IMG-7216r.png
+│   │   ├── IMG-7257.JPG
+│   │   ├── IMG-7258.JPG
+│   │   ├── IMG-7259f.png
+│   │   ├── IMG-7259g.png
+│   │   ├── IMG-7259.JPG
+│   │   ├── IMG-7259.png
+│   │   ├── IMG-7259r.png
+│   │   ├── IMG-7259t.png
+│   │   ├── IMG-7260.JPG
+│   │   ├── IMG-7262.JPG
+│   │   ├── IMG-7263.JPG
+│   │   ├── IMG-7264f.png
+│   │   ├── IMG-7264g.png
+│   │   ├── IMG-7264.JPG
+│   │   ├── IMG-7264.png
+│   │   ├── IMG-7264r.png
+│   │   ├── IMG-7275e.png
+│   │   ├── IMG-7275g.png
+│   │   ├── IMG-7275.JPG
+│   │   ├── IMG-7275.png
+│   │   ├── IMG-7275r.png
+│   │   ├── IMG-7277e.png
+│   │   ├── IMG-7277g.png
+│   │   ├── IMG-7277.JPG
+│   │   ├── IMG-7277.png
+│   │   ├── IMG-7277r.png
+│   │   ├── IMG-7280g.png
+│   │   ├── IMG-7280.JPG
+│   │   ├── IMG-7280.png
+│   │   ├── IMG-8035.JPG
+│   │   ├── IMG-8036.JPG
+│   │   ├── IMG-8306.JPG
+│   │   ├── IMG-8308.JPG
+│   │   ├── IMG-8309.JPG
+│   │   ├── IMG-8310.JPG
+│   │   ├── IMG-8311.JPG
+│   │   ├── IMG-8312.JPG
+│   │   ├── IMG-8313.JPG
+│   │   ├── IMG-8314.JPG
+│   │   ├── IMG-8315.JPG
+│   │   ├── IMG-8560.JPG
+│   │   ├── IMG-8568.JPG
+│   │   ├── IMG-8569.JPG
+│   │   ├── IMG-8573.JPG
+│   │   ├── IMG-8575.JPG
+│   │   ├── IMG-8576.JPG
+│   │   ├── IMG-8577.JPG
+│   │   ├── IMG-8578.JPG
+│   │   ├── IMG-8682.JPG
+│   │   ├── IMG-8686.JPG
+│   │   ├── IMG-8690.JPG
+│   │   ├── IMG-8692.JPG
+│   │   ├── IMG-8692.png
+│   │   ├── IMG-8695.JPG
+│   │   ├── IMG-8703.JPG
+│   │   ├── IMG-8706.JPG
+│   │   ├── IMG-8707.JPG
+│   │   ├── IMG-8709.JPG
+│   │   ├── IMG-8709.png
+│   │   ├── IMG-8712.JPG
+│   │   ├── IMG-8712.png
+│   │   ├── IMG-8719.JPG
+│   │   ├── IMG-8725.JPG
+│   │   ├── IMG-8726.JPG
+│   │   ├── IMG-8726.png
+│   │   ├── IMG-8729.JPG
+│   │   ├── IMG-8730.JPG
+│   │   ├── IMG-8731.JPG
+│   │   ├── IMG-8731.png
+│   │   ├── IMG-8780.jpg
+│   │   ├── IMG-8781.JPG
+│   │   ├── IMG-8783.JPG
+│   │   ├── IMG-8786.JPG
+│   │   ├── IMG-8789.JPG
+│   │   ├── IMG-8792.JPG
+│   │   ├── IMG-8796.JPG
+│   │   ├── IMG-8802.JPG
+│   │   ├── IMG-9005.JPG
+│   │   ├── IMG-9011.JPG
+│   │   ├── IMG-9016.JPG
+│   │   ├── IMG-9016 process.png
+│   │   ├── IMG-9025.JPG
+│   │   ├── IMG-9025.png
+│   │   ├── IMG-9057.JPG
+│   │   ├── IMG-9341.JPG
+│   │   ├── IMG-9366b.png
+│   │   ├── IMG-9366.JPG
+│   │   ├── IMG-9366.png
+│   │   ├── IMG-9374.JPG
+│   │   ├── IMG-9377.JPG
+│   │   ├── IMG-9377.png
+│   │   ├── IMG-9379 bwb.png
+│   │   ├── IMG-9379 bw.png
+│   │   ├── IMG-9379.JPG
+│   │   ├── IMG-9379.png
+│   │   ├── IMG-9381.JPG
+│   │   ├── IMG-9381.png
+│   │   ├── IMG-9383 bwb.png
+│   │   ├── IMG-9383 bw.png
+│   │   ├── IMG-9383.JPG
+│   │   ├── IMG-9383.png
+│   │   ├── IMG-9386.JPG
+│   │   ├── IMG-9397 bwb.png
+│   │   ├── IMG-9397 bw.png
+│   │   ├── IMG-9397.JPG
+│   │   ├── IMG-9397.png
+│   │   ├── IMG-9401.JPG
+│   │   ├── IMG-9407.JPG
+│   │   ├── IMG-9409b.png
+│   │   ├── IMG-9409.JPG
+│   │   ├── IMG-9409.png
+│   │   ├── IMG-9412 bwb.png
+│   │   ├── IMG-9412 bw.png
+│   │   ├── IMG-9412.JPG
+│   │   ├── IMG-9412.png
+│   │   ├── IMG-9413.JPG
+│   │   ├── IMG-9414.JPG
+│   │   ├── IMG-9425.JPG
+│   │   ├── IMG-9425.png
+│   │   ├── IMG-9430b.png
+│   │   ├── IMG-9430.JPG
+│   │   ├── IMG-9430.png
+│   │   ├── IMG-9430x.png
+│   │   ├── IMG-9449.JPG
+│   │   ├── IMG-9450 bwb.png
+│   │   ├── IMG-9450 bw.png
+│   │   ├── IMG-9450 desat.png
+│   │   ├── IMG-9450.JPG
+│   │   ├── IMG-9452b.png
+│   │   ├── IMG-9452.JPG
+│   │   ├── IMG-9452.png
+│   │   ├── IMG-9453.JPG
+│   │   ├── IMG-9454.JPG
+│   │   ├── IMG-9455.JPG
+│   │   ├── IMG-9455.png
+│   │   ├── IMG-9458.JPG
+│   │   ├── IMG-9461b.png
+│   │   ├── IMG-9461.JPG
+│   │   ├── IMG-9461.png
+│   │   ├── IMG-9467 bw.png
+│   │   ├── IMG-9467.JPG
+│   │   ├── IMG-9620.JPG
+│   │   ├── IMG-9620.png
+│   │   ├── IMG-9622.JPG
+│   │   ├── IMG-9622.png
+│   │   ├── IMG-9670.JPG
+│   │   ├── IMG-9670.png
+│   │   ├── IMG-9763.JPG
+│   │   ├── IMG-9764.JPG
+│   │   ├── IMG-9766.JPG
+│   │   ├── IMG-9772.JPG
+│   │   ├── IMG_9791.JPG
+│   │   ├── IMG_9792.JPG
+│   │   ├── IMG_9793.JPG
+│   │   ├── IMG_9794.JPG
+│   │   ├── IMG_9795.JPG
+│   │   ├── IMG_9796.JPG
+│   │   ├── IMG_9797.JPG
+│   │   ├── IMG_9798.JPG
+│   │   ├── IMG_9799.JPG
+│   │   ├── IMG_9799-Recovered.png
+│   │   ├── IMG_9800.JPG
+│   │   ├── IMG_9800-Recovered.png
+│   │   ├── IMG_9801.JPG
+│   │   ├── IMG_9802.JPG
+│   │   ├── IMG_9803.JPG
+│   │   ├── IMG_9803.png
+│   │   ├── IMG_9804.JPG
+│   │   ├── IMG_9804.png
+│   │   ├── IMG_9805.JPG
+│   │   ├── IMG_9805-Recovered.png
+│   │   ├── IMG_9806.JPG
+│   │   ├── IMG_9806-Recovered.png
+│   │   ├── IMG_9819.JPG
+│   │   ├── IMG_9821.JPG
+│   │   ├── IMG_9822.JPG
+│   │   ├── IMG_9823.JPG
+│   │   ├── IMG_9824.JPG
+│   │   ├── IMG_9825.JPG
+│   │   ├── IMG_9825-Recovered.png
+│   │   ├── IMG_9826.JPG
+│   │   ├── IMG_9827.JPG
+│   │   ├── IMG_9827-Recovered.png
+│   │   ├── IMG_9829.JPG
+│   │   ├── IMG_9832b.JPG
+│   │   ├── IMG_9832.JPG
+│   │   ├── IMG_9833b.JPG
+│   │   ├── IMG_9833.JPG
+│   │   ├── IMG_9834b.JPG
+│   │   ├── IMG_9834.JPG
+│   │   ├── IMG_9835b.JPG
+│   │   ├── IMG_9835.JPG
+│   │   ├── IMG_9836b.JPG
+│   │   ├── IMG_9836.JPG
+│   │   ├── IMG_9837b.JPG
+│   │   ├── IMG_9837.JPG
+│   │   ├── IMG_9838b.JPG
+│   │   ├── IMG_9838.JPG
+│   │   ├── IMG_9839b.JPG
+│   │   ├── IMG_9839.JPG
+│   │   ├── IMG-9992.JPG
+│   │   ├── j3.png
+│   │   ├── january.png
+│   │   ├── lamp.png
+│   │   ├── line.png
+│   │   ├── petal1.png
+│   │   ├── petal b 1.png
+│   │   ├── picture.png
+│   │   ├── pourple 2.png
+│   │   ├── pourple 3.png
+│   │   ├── profile.png
+│   │   ├── prooofile.png
+│   │   ├── rain1a.png
+│   │   ├── rain1.png
+│   │   ├── rain1t.png
+│   │   ├── rain2a.png
+│   │   ├── rain 2.png
+│   │   ├── rain2.png
+│   │   ├── rain2t.png
+│   │   ├── rain3a.png
+│   │   ├── rain3.png
+│   │   ├── rain3t.png
+│   │   ├── rain4a.png
+│   │   ├── rain4.png
+│   │   ├── rain4t.png
+│   │   ├── rain5a.png
+│   │   ├── rain5.png
+│   │   ├── rain5t.png
+│   │   ├── rain6a.png
+│   │   ├── rain6.png
+│   │   ├── rain6t.png
+│   │   ├── rain7a.png
+│   │   ├── rain7.png
+│   │   ├── rain7t.png
+│   │   ├── rain bw.png
+│   │   ├── repair-department.png
+│   │   ├── shadow-cityscape.png
+│   │   ├── shadow-painting.png
+│   │   ├── size1.png
+│   │   ├── size2.png
+│   │   ├── size3.png
+│   │   ├── size4.png
+│   │   ├── size5.png
+│   │   ├── size6.png
+│   │   ├── size7.png
+│   │   ├── skya.png
+│   │   ├── skyb.png
+│   │   ├── sky.png
+│   │   ├── spring rooftop 1.png
+│   │   ├── spring rooftop 2.png
+│   │   ├── spring rooftop 3.png
+│   │   ├── sun and colors monochrome b.png
+│   │   ├── sun.png
+│   │   ├── there-appear-to-be-plants-in-the-bathtub.png
+│   │   ├── tree 1.png
+│   │   ├── Untitled-2 14.png
+│   │   ├── walk 2.png
+│   │   ├── walk bw.png
+│   │   ├── walk.png
+│   │   ├── WaterSong.mp4
+│   │   ├── workbench.png
+│   │   └── yellow.png
+│   ├── adv-port-2
+│   │   └── still-life.jpg
+│   ├── iac
+│   │   ├── IAC+proj+2.pdf
+│   │   ├── iac+proj+3.pdf
+│   │   ├── IAC+proj+6+compile.mp4
+│   │   ├── IAC+Project+#1.pdf
+│   │   └── vivaldi notes.pdf
+│   └── juUUUn.png
+├── asdfkhsadlfkjsdaf.png
+├── current
+│   └── darkroom
+│       ├── alma-painting.png
+│       ├── alma-painting-thumbnail.png
+│       ├── carl-johnson.png
+│       ├── carl-johnson-thumbnail.png
+│       ├── ginger-root.png
+│       ├── ginger-root-thumbnail.png
+│       ├── hollis-spoon.png
+│       ├── hollis-spoon-thumbnail.png
+│       ├── jules-basket.png
+│       ├── jules-basket-thumbnail.png
+│       ├── kaes-camera.png
+│       ├── kaes-camera-thumbnail.png
+│       ├── mom-hand.png
+│       ├── mom-hand-thumbnail.png
+│       ├── sam-scene.png
+│       ├── sam-scene-thumbnail.png
+│       ├── steve-burgers.png
+│       ├── steve-burgers-thumbnail.png
+│       ├── steve-pond.png
+│       ├── steve-pond-thumbnail.png
+│       ├── window-plant.png
+│       └── window-plant-thumbnail.png
+├── earlier
+├── labeled.png
+├── labeled unlabeled.png
+└── #THIS IS THE MASTER MEDIA ARCHIVE FOLDER#
+
+16 directories, 818 files
