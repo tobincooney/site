@@ -3,28 +3,46 @@
 - [ ] table of contents
 - each year has writing (overview) & subheaders for projects, links to where the media are.
 - i'll probably link to music & stuff here, NOT the whole archive of portfolio albums
+- __TAGGED BY GRADE!__
 
+## tree:
 
-# active
-## tpvotlgb
-
-# 2021
-## October music project
-## may: petals
-
-# 2020
-## november: snowfall piano
-## oct: 'unlatch'
-## sept: 'summer evening' piano pieces
-## walls/waves painting
-## adv. art stuff 10th grade
-- [ ] take a look @ that final portfolio slideshow & stuff
-## april: Starling & Kingfisher
-
-# 2019
-## 2020 calendar? just for fun
-
-# 2018
-## do i have any of my old sketches?
-
-# earlier
+__media__
+|
+|-__current__
+| |-darkroom
+| \-gourdboat
+|
+|-__2021__
+| |-adv-port-12th (final portfolio)
+| |-adv-pho (selected pieces, not necessarily the portfolio I used then)
+| |-misc. (there are some IAC sketches, etc. Pony!)
+| |-october music project
+| \-may: petals
+|
+|-__2020__
+| |-dig-pho (newly-selected final portfolio)
+| |-open-studio (maybe do project entries for each one here. It feels less bound to the class)
+| |  - could have a project for open studio sketches, or anything that _does_ feel more bound to the class
+| |  - unlatch
+| |  - snowfall piano piece (this is kind of like taking a selection from the notebook albums. Do that all across every year)
+| |  - sept: summer evening piano piece things
+| |  - walls/waves painting!
+| |
+| |-disposable-camera
+| \-adv-port-10th
+|    - Starling & Kingfisher (probably its own bit)
+|    - the painting pieces (concentric, riverbank, scale, maybe also the kitchen one)
+|
+|-__2019__
+| |-ceram-sculp
+|    - photos of final pieces, tiles, &c &c... do i still have all my pieces?
+| \-2020 calendar? just for fun
+|
+|-__2018__
+| |-a+d
+| |  - there was that cool block print
+| |
+| \-sketches i did for the old story things?
+|
+\-__earlier__
