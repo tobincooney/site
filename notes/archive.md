@@ -15,7 +15,7 @@ __media__
 |
 |-__2021__
 | |-adv-port-12th (final portfolio)
-| |-adv-pho (selected pieces, not necessarily the portfolio I used then)
+| |-adv-pho (selected pieces, not necessarily the portfolio I used then... pinhole?)
 | |-misc. (there are some IAC sketches, etc. Pony!)
 | |-october music project
 | \-may: petals
