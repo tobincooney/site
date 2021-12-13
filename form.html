@@ -1,8 +1,11 @@
 <script type="text/javascript">
 	function search() {
-		let input = document.getElementById('beans').value;
-		input=input.toLowerCase();
-		alert(input);
+			/*let input = document.getElementById('beans').value;
+			input=input.toLowerCase();
+			alert(input);*/
+			var fs = require('fs');
+			var files = fs.readdirSync();
+			alert(files);
 	}
 </script>
 <div id="search">
