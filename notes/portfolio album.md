@@ -1,5 +1,11 @@
 # portfolio album
 
+- [ ] gather the actual files
+	- put them in hwc media folder
+- [ ] remaster files?
+
+## first pass
+
 - petals
 - gourdboat main theme
 	- reprise
