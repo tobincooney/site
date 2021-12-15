@@ -1,17 +1,15 @@
 var portfolio = [
 	{
-		"title": "Cracking the coding interview",
-		"subtitle":"189 programming questions and solutions",
-		"author":"Gayle Laakmann McDowell",
-		"category":"Programming",
-		"publisher":"CareerCup, LLC"
+		"title": "Unlatch",
+		"subtitle":"for Open Studio 11th grade",
+		"category":"music",
+		"date":"Oct 2020"
 	},
 	{
-		"title": "No friend but the mountains",
-		"subtitle":"Writing from manu prison",
-		"author":"Behrouz Boochani",
-		"category":"Literature",
-		"publisher":"Pan Macmillan Australia"
-	}
+		"title": "Snowfall",
+		"subtitle":"for Open Studio 11th grade",
+		"category":"music",
+		"date":"Nov 2020"
+	},
 ]
 
