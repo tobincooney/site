@@ -5,7 +5,8 @@
 
 >__hosting__
 >	- https://tobincooney.github.io/
->	- https://heartwoodcollective.com/tobincooney
+>	- https://heartwoodcollective.com/tobincooney/
+>		- https://tobincooney.heartwoodcollective.com/
 >	- https://tobincooney.com/ ?
 
 

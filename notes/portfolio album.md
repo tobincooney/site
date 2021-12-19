@@ -68,7 +68,7 @@
 - apple seed: a river (i just want to hear what this one is again.)
 - "Okay" - a remix of a thing
 - In the Lamplight
-- sunlight (all of april 2020 is just such a vibe)
+- sunlight again (all of april 2020 is just such a vibe)
 - unstable ground?
 - brighter colors
 - Goblin Teeth
