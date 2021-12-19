@@ -8,7 +8,6 @@
 >	- https://heartwoodcollective.com/tobincooney
 >	- https://tobincooney.com/ ?
 
-* but it could be nice to have it be like a gallery, not comprehensive & covering everything I've done but just sort of a good selection that you can browse around.
 
 - [ ] make thumbnail images for photography
 - [ ] __searchable?__
