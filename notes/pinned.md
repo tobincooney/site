@@ -15,3 +15,8 @@ notes about what i'm actually working on: ongoing projects & things
 - any other fun pieces i want to highlight (don't worry too much about catagories. The selections are just to make it less overwhelming. This is just __stuff you don't want people to miss.__)
 	- toad!
 - then link : view full [[archive]]
+
+
+* but it could be nice to have it be like a gallery, not comprehensive & covering everything I've done but just sort of a good selection that you can browse around.
+
+- 14.105: Photography, Music, & My Projects
