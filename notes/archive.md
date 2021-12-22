@@ -1,4 +1,4 @@
-- top of the page: links to [[portfolio album]] in case you missed it, but then:
+- top of the page: links to [[portfolio album]] in case you missed it (it doesn't show up in the archive timeline, it's just the curation), but then:
 - __by year__
 - [ ] table of contents
 - each year has writing (overview) & subheaders for projects, links to where the media are.

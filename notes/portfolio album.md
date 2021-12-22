@@ -1,4 +1,13 @@
 # portfolio album
+- only exists in the pinned section
+- section at the bottom for good ideas that are badly executed
+	- Q (woods), Oct 21
+	- gather **THEMES**
+		- beneath the earth:
+			- october 2021 version
+			- original (i think it's july 2020?)
+
+---
 
 - [ ] gather the actual files
 	- put them in hwc media folder
