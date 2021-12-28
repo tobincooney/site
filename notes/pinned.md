@@ -1,5 +1,10 @@
 # pinned section
 
+home page; some context and then links to the portfolio parts with bits of context for each of them too (see old original site). don't worry about formatting until all the content is there!
+
+
+
+
 Who am I?
 excellent question
 
