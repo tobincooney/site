@@ -29,6 +29,8 @@ h1.title {
 	font-size: 400%;
 	font-weight: normal;
 	margin-bottom: 0px;
+	display: inline-block;
+	padding-right: 8%;
 }
 div#pinned {
 	border-style: solid;
@@ -76,6 +78,7 @@ h4 {
 	font-size: 110%;
 	left:-5px;
 	margin-bottom: 0px;
+	color: #038557;
 }
 h5 {
 	font-weight: bold;
@@ -122,4 +125,5 @@ hr#endline {
 	a:visited:hover { color: #b08735; }
 	p.date { color: #8c8c8c; }
 	div#toc { border-color: grey; }
+	h4 { color: #d19404; }
 }

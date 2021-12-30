@@ -25,3 +25,23 @@ notes about what i'm actually working on: ongoing projects & things
 * but it could be nice to have it be like a gallery, not comprehensive & covering everything I've done but just sort of a good selection that you can browse around.
 
 - 14.105: Photography, Music, & My Projects
+
+
+
+
+---
+
+
+Hi welcome!
+===========
+
+I'm Tobin and I do some stuff sometimes, and sometimes that stuff ends up here.
+
+[Archive of projects I've worked on]
+
+pinned:
+[music]
+Every month since April 2020 I've released what I'm calling a "notebook album" of music things I did in that month. You can see all of those on [Bandcamp], and I've also compiled some of the better snippets [here].
+[photo]
+I've also started doing some photography. All of that's in the archive, but again I've put together a good selection [here].
+
