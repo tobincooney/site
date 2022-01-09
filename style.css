@@ -72,6 +72,7 @@ h3 {
 	font-family: "Roboto Slab", serif;
 	font-weight: normal;
 	margin: 0px;
+	text-decoration: overline;
 }
 div.project {
 	margin-left: 15px;
@@ -84,7 +85,7 @@ h4 {
 	font-size: 110%;
 	left:-5px;
 	margin-bottom: 0px;
-	color: #038557;
+	color: #f85552;
 }
 h5 {
 	font-weight: bold;
@@ -131,5 +132,5 @@ hr#endline {
 	a:visited:hover { color: #b08735; }
 	p.date { color: #8c8c8c; }
 	div#toc { border-color: grey; }
-	h4 { color: #04b577; }
+	h4 { color: #da6362; }
 }
