@@ -1,8 +1,4 @@
 - top of the page: links to [[portfolio album]] in case you missed it (it doesn't show up in the archive timeline, it's just the curation), but then:
-- __by year__
-- [ ] table of contents
-- each year has writing (overview) & subheaders for projects, links to where the media are.
-- i'll probably link to music & stuff here, NOT the whole archive of portfolio albums
 - __TAGGED BY GRADE!__
 - [ ] look thru. mscz files??
 	- garage band files??
@@ -11,7 +7,8 @@
 
 # tree
 - current
-	- darkroom film photo #12th 
+	- darkroom film photo #12th
+		- [ ] make a big single image of a table of a bunch of scans, and have it link to the folder of all the individual images 
 	- gourdboat
 
 - 2021

@@ -12,7 +12,7 @@
 
 - [ ] make thumbnail images for photography
 - [ ] __searchable?__
-- [ ] table of contents like wikipedia?
+- [X] table of contents like wikipedia?
 - [ ] take better photo of painting
 - [ ] some photos of physical actual sketches? That would be fun
 - [ ] good photo of still life
