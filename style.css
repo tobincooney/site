@@ -126,7 +126,7 @@ hr#endline {
 
 /* dark mode adaptive stuff */
 @media (prefers-color-scheme: dark) {
-	body { background-color: #1c1c1c;
+	body { background-color: #30373b;
 	color: #e3e3e3; }
 	a:visited { color: #e3ae44; }
 	a:visited:hover { color: #b08735; }
