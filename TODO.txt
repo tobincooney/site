@@ -1,3 +1,8 @@
 [ ] sort through all the media/ files
 [ ] compile music & photography condensed portfolio pages
 [ ] put in descriptions for all the projects in archive
+[ ] turn bandcamp albums into local files (or just backup)
+[ ] thumbnail images for photography
+[ ] better photo of painting?
+[ ] photos of some sketches? maybe have that be a yearly entry too? just like "hey here's stome stuff"
+[ ] take good photo of still life
