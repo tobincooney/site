@@ -1,0 +1,3 @@
+[ ] sort through all the media/ files
+[ ] compile music & photography condensed portfolio pages
+[ ] put in descriptions for all the projects in archive
