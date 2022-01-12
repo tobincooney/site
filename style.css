@@ -1,7 +1,7 @@
 body {
 	font-family: "Lato", sans-serif;
 	font-size: 13pt;
-	padding-right: 25%;
+	padding-right: 18%;
 	padding-left: 20%;
 	margin-top: 0px;
 	transition: background-color 0.5s, color 0.5s;
@@ -10,6 +10,7 @@ a {
 	text-decoration: none;
 	color: #279dc2;
 	transition: color 0.1s;
+	font-weight: bold;
 }
 a:hover {
 	color: #0e4b5e;
@@ -116,6 +117,11 @@ img.artwork {
 	margin: 5px;
 	border: 1px solid grey;
 	border-radius: 2px;
+}
+div.img-container {
+	overflow:  hidden;
+	width: 100%;
+	height: 312px;
 }
 hr#endline {
 	padding-top: 0px;
