@@ -1,0 +1,21 @@
+note:
+for beth, could put site on a flashdrive until i figure out media sharing better
+
+|
+|-WEBSITE.html
+\-repo
+  |-index.html
+  |-archive.html
+  \-media
+    \-2021
+      \-adv-port-2
+        |-still-life-1.png
+        |-still-life-2.mp4
+        |-toad-score.mp4
+        \-??????
+
+repo is a clone of https://github.com/tobincooney/tobincooney.github.io.git, and WEBSITE.html just says
+
+The website is hosted on https://heartwoodcollective.com/tobincooney/ and https://tobincooney.github.io/, but the media files haven't all been put in right yet. So for now, I've put all the files for this class on here so that you can see them as they'll look in the website very soon:
+
+[[WEBSITE]](repo/index.html)
