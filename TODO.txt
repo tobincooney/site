@@ -10,3 +10,4 @@ TODO
 [ ] photos of some sketches? maybe have that be a yearly entry too? just like "hey here's stome stuff"
 [ ] take good photo of still life
 [ ] upload all the media to hwc or wherever else
+[ ] replace thumbnails with much smaller thumbnails
