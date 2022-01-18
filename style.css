@@ -107,7 +107,7 @@ img.artwork {
 	display: inline-block;
 	margin: 5px;
 	border: 1px solid grey;
-	border-radius: 2px;
+	border-radius: 3px;
 }
 div.img-container {
 	overflow:  hidden;
