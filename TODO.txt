@@ -12,3 +12,4 @@ TODO
 [ ] upload all the media to hwc or wherever else
 [ ] replace thumbnails with much smaller thumbnails
 [ ] finish & upload adv. port. 2 proj. no. 4
+[ ] artist's statements, as well as individual proj/ html pages for each project (or subproject, in the case of some classes. or both? like an 'adv. port. 2 class' page and then subpages for like 'postmodern proj. 1: toad'?)
