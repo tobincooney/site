@@ -1,4 +1,9 @@
 # Tobin Cooney
-## website portfolio thing
-- brainstorm doc: [ideas & notes](notes/ideas%20&%20notes.md)
-- the media/ folder isn't tracked. Sync that separately. Hosted on heartwoodcollective.com/tobincooney/media/ I think
+
+it's a website
+
+https://heartwoodcollective.com/tobincooney/
+	- this is where the media files are
+there's also:
+https://tobincooney.heartwoodcollective.com/
+https://tobincooney.github.io/
