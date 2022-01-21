@@ -127,6 +127,7 @@ iframe.bandcamp {
 
 
 /* dark mode adaptive stuff */
+/* don't want this right now
 @media (prefers-color-scheme: dark) {
 	body { background-color: #30373b;
 	color: #e3e3e3; }
@@ -135,4 +136,4 @@ iframe.bandcamp {
 	p.date { color: #8c8c8c; }
 	div#toc { border-color: grey; }
 	h4 { color: #da6362; }
-}
+}*/
