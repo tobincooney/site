@@ -162,8 +162,10 @@ div.notice {
 		/* so that no matter what you will see 2 images, in a single column. if you take out 'display: block;' then you could have maybe 2 colums?*/
 	}
 	iframe.bandcamp {
-		width: auto;
+		width: 72.96%;
 		height: auto;
+		transform: scale(3.0);
+		transform-origin: 0 0;
 	}
 }
 
