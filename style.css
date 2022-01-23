@@ -148,6 +148,7 @@ div.notice {
 		padding-bottom: 0px;
 	}
 	div.notice {
+		width: 95%;
 		padding: 2%;
 	}
 }
