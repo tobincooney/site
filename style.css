@@ -142,8 +142,13 @@ div.notice {
 	}
 	div#toc {
 		font-size: 100%;
-		border-radius: 2px;
 		width: 90%;
+		border: solid 4px black;
+		padding: 4%;
+		padding-bottom: 0px;
+	}
+	div.notice {
+		padding: 2%;
 	}
 }
 
