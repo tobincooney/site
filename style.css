@@ -1,5 +1,5 @@
 body {
-	font-family: "Lato", sans-serif;
+	font-family: "Bitter", sans-serif;
 	font-size: 12pt;
 	padding-right: 18%;
 	padding-left: 20%;
@@ -29,9 +29,9 @@ div.button {
 	font-size: 120%;
 }
 h1.title {
-	font-family: "Roboto Slab", serif;
+	font-family: "Bitter", serif;
 	font-size: 400%;
-	font-weight: normal;
+	font-weight: bold;
 	margin-bottom: 0px;
 	display: inline-block;
 	padding-right: 4%;
@@ -61,7 +61,7 @@ li.toc {
 }
 h3 {
 	font-size: 200%;
-	font-family: "Roboto Slab", serif;
+	font-family: "Bitter", serif;
 	font-weight: normal;
 	margin: 0px;
 	text-decoration: overline;
@@ -124,7 +124,22 @@ iframe.bandcamp {
 	height: 250px;
 }
 
+div.notice {
+	width: 100%;
+	background-color: #fbff85;
+	border: solid 2px #e6de75;
+	border-radius: 1px;
+	padding: 5px;
+	font-family: 'Roboto Slab', monospace, serif;
+}
 
+
+@media only screen and (max-device-width: 700px) {
+	body {
+		padding-right: 0px;
+		padding-left: 0px;
+	}
+}
 
 /* dark mode adaptive stuff */
 /* don't want this right now
