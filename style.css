@@ -118,6 +118,12 @@ hr#endline {
 	padding-top: 0px;
 	width: 50%;
 }
+p.footer {
+	font-style: italic;
+	color: #787878;
+	font-size: 90%;
+	font-family: "Roboto Slab", monospace, serif;
+}
 iframe.bandcamp {
 	border: none;
 	width: 100%;
