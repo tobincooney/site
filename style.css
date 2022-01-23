@@ -169,12 +169,12 @@ div.notice {
 	}
 	iframe.bandcamp {
 		width: auto;
-		height: 300px;
-		transform: scale(1.5);
+		height: 320px;
+		transform: scale(2.0);
 		transform-origin: 0 0;
 	}
 	div.bandcamp-wrap {
-		height: 450px;
+		height: 640px;
 	}
 }
 
