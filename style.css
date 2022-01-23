@@ -136,6 +136,7 @@ div.notice {
 
 @media only screen and (max-device-width: 700px) {
 	body {
+		font-size: 30pt;
 		padding-right: 2%;
 		padding-left: 2%;
 	}
