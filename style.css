@@ -185,13 +185,19 @@ div.notice {
 }
 
 /* dark mode adaptive stuff */
-/* don't want this right now
 @media (prefers-color-scheme: dark) {
-	body { background-color: #30373b;
-	color: #e3e3e3; }
+	body {
+		background-color: #30373b;
+		color: #e3e3e3;
+	}
 	a:visited { color: #e3ae44; }
 	a:visited:hover { color: #b08735; }
 	p.date { color: #8c8c8c; }
 	div#toc { border-color: grey; }
 	h4 { color: #da6362; }
-}*/
+	div.notice {
+		background-color: #d9ca9e;
+		border-color: #c4af71;
+		color: #1c1c1c;
+	}
+}
