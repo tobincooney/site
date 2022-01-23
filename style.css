@@ -126,7 +126,7 @@ iframe.bandcamp {
 }
 div.bandcamp-wrap {
 	width: 100%;
-	height: 375px;
+	height: 250px;
 	display: block;
 	overflow: hidden;
 }
@@ -169,8 +169,12 @@ div.notice {
 	}
 	iframe.bandcamp {
 		width: auto;
+		height: 300px;
 		transform: scale(1.5);
 		transform-origin: 0 0;
+	}
+	div.bandcamp-wrap {
+		height: 450px;
 	}
 }
 
