@@ -152,11 +152,12 @@ div.notice {
 		padding: 2%;
 	}
 	img.artwork {
-		height: 300px;
+		height: auto;
+		width: 80%;
 		display: block;
 	}
 	div.img-container {
-		height: 618px;
+		height: auto;
 		/* so that no matter what you will see 2 images, in a single column. if you take out 'display: block;' then you could have maybe 2 colums?*/
 	}
 }
