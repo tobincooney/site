@@ -163,7 +163,7 @@ div.notice {
 	}
 	iframe.bandcamp {
 		width: auto;
-		height: 350px;
+		height: auto;
 	}
 }
 
