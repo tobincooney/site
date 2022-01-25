@@ -1,0 +1,80 @@
+body {
+	font-family: "Roboto", sans-serif;
+	padding-right: 25%;
+	padding-left: 20%;
+	margin-top: 0%;
+}
+a {
+	text-decoration: none;
+	color: #279dc2;
+	transition: color 0.1s;
+}
+a:hover {
+	color: #0e4b5e;
+}
+div.button {
+	padding: 10px;
+	display: inline-block;
+	text-align: center;
+	font-weight: bold;
+	font-size: 120%;
+}
+h1.title {
+	font-size: 400%;
+	font-weight: bold;
+}
+p.date {
+	font-style: italic;
+	color: #AFAFAF;
+	font-size: 90%;
+	font-family: "Courier New", monospace, serif;
+	margin-left: 2%;
+}
+hr {
+	border: none;
+	height: 1px;
+	width: 25%;
+	background-color: #5C5C5C;
+	margin-left: 0%;
+}
+h3 {
+	font-size: 200%;
+}
+p.post-content {
+	padding: 2%;
+}
+iframe {
+	margin: 2%;
+}
+div.top-half {
+	margin-top: 2%;
+	position: fixed;
+	background-color: #F7F7F7;
+	width: 60%;
+	border-radius: 3px;
+	transition: width 0.3s;
+}
+div.center {
+	padding-left: 20%;
+}
+div#spacer {
+	height: 800px;
+	transition: height 0.3s;
+}
+div.flex {
+	display: flex;
+	flex-wrap: nowrap;
+}
+.photography {
+	width: 75%;
+}
+div.photo-cell {
+	padding: 1%;
+	display: inline;
+}
+p#description {
+	font-size: 14pt;
+}
+p.the-link {
+	width: 80%;
+}
