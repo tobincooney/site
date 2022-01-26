@@ -68,17 +68,8 @@ h3 {
 	font-family: "Bitter", serif;
 	font-weight: normal;
 	margin: 0px;
+	margin-top: 16px;
 	text-decoration: overline;
-}
-hr {
-	border: none;
-	height: 1px;
-	width: 25%;
-	background-color: #5C5C5C;
-	margin-left: 0px;
-	padding-top: 3px;
-	margin-top: 15px;
-	margin-bottom:5px;
 }
 div.flex {
 	display: flex;
@@ -87,8 +78,8 @@ div.flex {
 	margin: 0px;
 }
 p#description {
-	font-size: 116%;
 	margin-left: 20px;
+	font-size: 108%;
 }
 div#description {
 	margin-left: 40px;
@@ -138,9 +129,15 @@ div.img-container {
 	width: 100%;
 	height: 172px;
 }
-hr#endline {
+hr {
 	padding-top: 0px;
+	border: none;
+	height: 1px;
 	width: 50%;
+	background-color: #5C5C5C;
+	margin-left: 0px;
+	margin-top: 15px;
+	margin-bottom: 5px;
 }
 p.footer {
 	font-style: italic;
@@ -168,6 +165,9 @@ div.notice {
 	padding: 5px;
 	font-family: 'Roboto Slab', monospace, serif;
 	color: #474747;
+}
+div.pinned {
+	margin: 6px;
 }
 
 
