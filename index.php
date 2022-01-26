@@ -68,7 +68,7 @@
 <body>
 	<br>
 	<h3 style="text-decoration: none;">an attempt at a php index</h3>
-	<p>hopefully this is readable, i know very little about php</p>
+	<p>i'm not great at php, so sorry if this page displays a little weird</p>
 	<br>
 	<table>
 		<tr>
