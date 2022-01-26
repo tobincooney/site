@@ -215,9 +215,14 @@ div.notice {
 		margin-right: 3%;
 	}
 	img#profile {
-		width: 100%;
+		width: 77%;
 		margin-right: 20px;
 		align: center;
+	}
+	div#profile-image {
+		width: 100%;
+		align: center;
+		text-align: center;
 	}
 }
 
