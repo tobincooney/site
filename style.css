@@ -64,12 +64,16 @@ h2 {
 	font-size: 200%;
 }
 h3 {
-	font-size: 200%;
+	font-size: 220%;
 	font-family: "Bitter", serif;
 	font-weight: normal;
 	margin: 0px;
 	margin-top: 16px;
 	text-decoration: overline;
+}
+h3.intro {
+	text-decoration: none;
+	display: inline;
 }
 div.flex {
 	display: flex;
@@ -190,6 +194,9 @@ div.pinned {
 		width: 95%;
 		padding: 2%;
 		font-size: 110%;
+	}
+	h3.intro {
+		display: block;
 	}
 	img.artwork {
 		height: auto;
