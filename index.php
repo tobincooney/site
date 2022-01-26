@@ -29,6 +29,9 @@
 		tr:nth-child(odd) {
 			background-color: #ededed;
 		}
+		a {
+			font-weight: normal;
+		}
 	</style>
 
 	<?PHP
