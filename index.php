@@ -78,7 +78,7 @@
 		<?PHP
 			foreach($dirlist as $file) {
 				echo "<tr>";
-				echo "<td>{$file['name']}</td>";
+				echo "<td><a href='", "{$file['name']}", "'>{$file['name']}</a></td>";
 				echo "<td>{$file['type']}</td>";
 				echo "<td>{$file['size']}</td>";
 				echo "<td>";
