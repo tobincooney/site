@@ -15,9 +15,10 @@
 			font-family: 'Courier New', monospace;
 		}
 		th {
-			font-variant: small-caps;
 			font-size: 110%;
-			background-color: #b6d1d6;
+			background-color: white;
+			color: #f85552;
+			font-family: "Bitter", serif;
 			padding: 8px;
 			text-align: left;
 		}
@@ -66,7 +67,8 @@
 </head>
 <body>
 	<br>
-	<h3 style="text-decoration: none;">auto-generated index</h3>
+	<h3 style="text-decoration: none;">an attempt at a php index</h3>
+	<p>hopefully this is readable, i know very little about php</p>
 	<br>
 	<table>
 		<tr>
