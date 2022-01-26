@@ -80,6 +80,7 @@ div.flex {
 	flex-wrap: nowrap;
 	padding: 0px;
 	margin: 0px;
+	width: 100%;
 }
 p#description {
 	margin-left: 20px;
@@ -91,8 +92,8 @@ div#description {
 	margin-bottom: 60px;
 }
 img#profile {
-	width: 200px;
-	margin-right: 60px;
+	width: 220px;
+	margin-right: 90px;
 	align: right;
 	margin-bottom: 60px;
 	border: 3px solid #1c1c1c;
@@ -123,16 +124,20 @@ p.date {
 	font-family: "Courier New", monospace, serif;
 }
 img.artwork {
-	height: 160px;
+	width: 90%;
 	display: inline-block;
 	margin: 5px;
 	border: 1px solid grey;
 	border-radius: 3px;
 }
+img.artwork#compact {
+	width: auto;
+	height: 180px;
+}
 div.img-container {
 	overflow: hidden;
 	width: 100%;
-	height: 172px;
+	height: 192px;
 }
 hr {
 	padding-top: 0px;
@@ -203,6 +208,10 @@ div.pinned {
 		width: 80%;
 		display: block;
 		margin-bottom: 12px;
+	}
+	img.artwork#compact {
+		height: auto;
+		width: 80%;
 	}
 	div.img-container {
 		height: auto;
