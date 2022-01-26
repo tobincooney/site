@@ -215,8 +215,8 @@ div.notice {
 		margin-right: 3%;
 	}
 	img#profile {
-		width: 80%;
-		margin-right: 2%;
+		width: 100%;
+		margin-right: 20px;
 		align: center;
 	}
 }
