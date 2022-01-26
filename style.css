@@ -60,23 +60,44 @@ li.toc {
 	padding-left: 10px;
 	margin-left: 15px;
 }
+h2 {
+	font-size: 200%;
+}
 h3 {
 	font-size: 200%;
 	font-family: "Bitter", serif;
 	font-weight: normal;
 	margin: 0px;
+	margin-top: 16px;
 	text-decoration: overline;
 }
-div.project {
-	margin-left: 15px;
+div.flex {
+	display: flex;
+	flex-wrap: nowrap;
+	padding: 0px;
+	margin: 0px;
 }
-div.post-content {
-	padding-left: 15px;
+p#description {
+	margin-left: 20px;
+	font-size: 108%;
 }
+div#description {
+	margin-left: 40px;
+	margin-right: 80px;
+	margin-bottom: 60px;
+}
+img#profile {
+	width: 200px;
+	margin-right: 60px;
+	align: right;
+	margin-bottom: 60px;
+	border: 3px solid #1c1c1c;
+}
+div.project { margin-left: 15px; }
+div.post-content { padding-left: 15px; }
 h4 {
 	font-weight: bold;
 	font-size: 110%;
-	left:-5px;
 	margin-bottom: 0px;
 	color: #f85552;
 }
@@ -142,6 +163,9 @@ div.notice {
 	font-family: 'Roboto Slab', monospace, serif;
 	color: #474747;
 }
+div.pinned {
+	margin: 6px;
+}
 
 
 @media only screen and (max-device-width: 700px) {
@@ -182,9 +206,27 @@ div.notice {
 	div.bandcamp-wrap {
 		height: 640px;
 	}
+	div.flex {
+		display: block;
+	}
+	div#description {
+		margin-left: 2%;
+		margin-right: 3%;
+	}
+	img#profile {
+		width: 77%;
+		margin-right: 20px;
+		align: center;
+	}
+	div#profile-image {
+		width: 100%;
+		align: center;
+		text-align: center;
+	}
 }
 
 /* dark mode adaptive stuff */
+/* don't want this right now
 @media (prefers-color-scheme: dark) {
 	body {
 		background-color: #30373b;
@@ -199,4 +241,4 @@ div.notice {
 		background-color: #d9ca9e;
 		border-color: #c4af71;
 	}
-}
+} */
