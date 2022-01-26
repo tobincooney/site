@@ -1,3 +1,5 @@
+<html>
+<link rel="stylesheet" href="/style.css">
 <?PHP
   function getFileList($dir)
   {
@@ -30,6 +32,9 @@
   }
   $dirlist = getFileList(".");
 ?>
+
+
+
 <ol>
 <?PHP
   foreach($dirlist as $file) {
@@ -42,3 +47,4 @@
 ?>
 </ol>
 <p>hopefully that works</p>
+</html>
