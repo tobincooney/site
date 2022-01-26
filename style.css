@@ -93,6 +93,10 @@ img#profile {
 	margin-bottom: 60px;
 	border: 3px solid #1c1c1c;
 }
+img.pin-img {
+	width: 80%;
+	border: 1px solid #1c1c1c;
+}
 div.project { margin-left: 15px; }
 div.post-content { padding-left: 15px; }
 h4 {
@@ -164,7 +168,7 @@ div.notice {
 	color: #474747;
 }
 div.pinned {
-	margin: 6px;
+	margin: 12px;
 }
 
 
