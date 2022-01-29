@@ -83,6 +83,13 @@ div.flex {
 	margin: 0px;
 	width: 100%;
 }
+p.flex-words {
+	padding: 6px;
+	padding-top: 0px;
+	margin-top: 0px;
+	font-style: italic;
+	color: #6e6e6e;
+}
 p#description {
 	margin-left: 20px;
 	font-size: 108%;
