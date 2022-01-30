@@ -140,7 +140,7 @@ img.artwork {
 }
 img.artwork#compact {
 	width: auto;
-	height: 180px;
+	height: 40vh;
 }
 div.img-container {
 	overflow: hidden;
@@ -168,6 +168,12 @@ iframe.bandcamp {
 	width: 100%;
 	height: 250px;
 	display: block;
+}
+iframe.youtube {
+	border: none;
+	display: block;
+	width: 35vw;
+	height: 40vh;
 }
 div.bandcamp-wrap {
 	width: 100%;
@@ -250,6 +256,10 @@ div.pinned {
 		width: 100%;
 		align: center;
 		text-align: center;
+	}
+	iframe.youtube {
+		width: 70vw;
+		height: 70vh;
 	}
 }
 
