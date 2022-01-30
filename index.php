@@ -91,6 +91,9 @@
 				echo "</tr>";
 			}
 		?>
+		<tr>
+			<td><a href="../">..</a></td>
+		</tr>
 	</table>
 </body>
 </html>
