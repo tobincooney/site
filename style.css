@@ -110,7 +110,11 @@ img.pin-img {
 	width: 80%;
 	border: 1px solid #1c1c1c;
 }
-div.project { margin-left: 15px; }
+div.project {
+	margin-left: 15px;
+	border-left: 2px solid #f85552;
+	padding-left: 40px;
+}
 div.post-content { padding-left: 15px; }
 h4 {
 	font-weight: bold;
