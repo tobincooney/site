@@ -126,6 +126,7 @@ div.project {
 	border-left: 2px solid #f85552;
 	padding-left: 40px;
 	padding-bottom: 10px;
+	width: 100%;
 }
 div.post-content { padding-left: 15px; }
 h4 {
@@ -235,13 +236,13 @@ div.pinned {
 	}
 	img.artwork {
 		height: auto;
-		width: 80%;
+		width: 100%;
 		display: block;
 		margin-bottom: 12px;
 	}
 	img.artwork#compact {
 		height: auto;
-		width: 80%;
+		width: 100%;
 	}
 	div.img-container {
 		height: auto;
