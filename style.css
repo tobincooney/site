@@ -146,7 +146,7 @@ p.date {
 	font-family: "Courier New", monospace, serif;
 }
 img.artwork {
-	width: 90%;
+	width: 100%;
 	display: inline-block;
 	margin: 5px;
 	border: 1px solid grey;
@@ -234,7 +234,6 @@ div.pinned {
 	}
 	img.artwork {
 		height: auto;
-		width: 100%;
 		display: block;
 		margin-bottom: 12px;
 	}
