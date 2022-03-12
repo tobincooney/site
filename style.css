@@ -1,8 +1,8 @@
 body {
 	font-family: "Bitter", sans-serif;
 	font-size: 12pt;
-	padding-right: 18%;
-	padding-left: 18%;
+	padding-right: 16%;
+	padding-left: 16%;
 	margin-top: 0px;
 	transition: background-color 0.5s, color 0.5s;
 	color: #1c1c1c;
@@ -40,6 +40,7 @@ div.button {
 	font-weight: bold;
 	font-size: 120%;
 }
+td { padding: 15px; }
 h1.title {
 	font-family: "Bitter", serif;
 	font-size: 400%;
@@ -110,13 +111,7 @@ div#description {
 	margin-right: 80px;
 	margin-bottom: 60px;
 }
-img#profile {
-	width: 220px;
-	margin-right: 90px;
-	align: right;
-	margin-bottom: 60px;
-	border: 3px solid #1c1c1c;
-}
+img#profile { border: 3px solid #1c1c1c; }
 img.pin-img {
 	width: 80%;
 	border: 1px solid #1c1c1c;
@@ -213,6 +208,7 @@ div.pinned {
 
 
 @media only screen and (max-device-width: 700px) {
+	td { display: block; }
 	body {
 		font-size: 30pt;
 		padding-right: 4%;
