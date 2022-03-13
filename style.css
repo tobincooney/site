@@ -41,6 +41,7 @@ div.button {
 	font-size: 120%;
 }
 td { padding: 15px; }
+th.define { display: auto; }
 h1.title {
 	font-family: "Bitter", serif;
 	font-size: 400%;
@@ -211,6 +212,7 @@ div.pinned {
 
 @media only screen and (max-device-width: 700px) {
 	td { display: block; }
+	th.define { display: none; }
 	body {
 		font-size: 30pt;
 		padding-right: 4%;
