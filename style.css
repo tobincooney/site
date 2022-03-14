@@ -135,7 +135,7 @@ h4 {
 	font-weight: bold;
 	font-size: 110%;
 	margin-bottom: 0px;
-	color: #f85552;
+	color: #f85552;	/* if i did this right i think this isn't actually necessary */
 }
 h5 {
 	font-weight: bold;
