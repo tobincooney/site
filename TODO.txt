@@ -17,6 +17,7 @@ TODO
 	- words are very dense. try to make it more intuitive if you can
 [ ] replace flex with tables (at least in some places) (branch 'table')
 [ ] SVG designs?
+[ ] i think it would be good to find a way to store this as markdown, and write a little compiler to wrap it up into html
 
 
 i think generally the vibe is rewriting everything as i remember it, so like don't just copy and paste in the old artist's statments, instead actually give context, so it all feels liks it goes together as one thing.
